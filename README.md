@@ -1,6 +1,6 @@
 Somewhere
 =========
-This gem was developed by Jonathan Martin for use in a number of Rails projects. I tend to use addresses all over the place, so this gem handles all the nitpicky class level details for an address object.
+This gem was developed for use in a number of Rails projects. I tend to use addresses all over the place, so this gem handles all the nitpicky class level details for an address object.
 
 Be sure to check out [nybblr.com](http://nybblr.com) for other Rails goodies, and if you're looking for more of my gems (when I get around to it!) surf around my GitHub repos.
 
